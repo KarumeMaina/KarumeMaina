@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarumeMaina
-- 👀 I’m interested in software Engineering
-- 🌱 I’m currently learning Android Programming and data science
+- 👀 I’m a software Developer
+- 🌱 I’m currently a Developer for Android Applications, Web Applications and Learning Data Science
 - 💞️ I’m looking to collaborate on a project that will help me learn
 - 📫 How to reach me ...
 
